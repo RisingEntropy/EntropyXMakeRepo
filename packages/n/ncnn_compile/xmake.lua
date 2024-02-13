@@ -1,4 +1,4 @@
-package("ncnn")
+package("ncnn_compile")
     set_kind("library", {headeronly = true})
     set_homepage("https://github.com/Tencent/ncnn")
     set_description("ncnn is a high-performance neural network inference framework optimized for the mobile platform")
